@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Ajayi Funmilola - [Github] (https://github.com/lolaIbikz)
-Naomi Ibe - 
+Naomi Ibe - [Github] (https://github.com/amarajah)
 ## License
 Public Domain. No copy write protection. 
